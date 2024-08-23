@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "6cb884489f756cad844aae13ccd90a78",
+    "packages": [
+        {
+            "name": "yt/composer-sample",
+            "version": "v1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/websuke/composerSample.git",
+                "reference": "320232aa8994548b597397cde234aa17cb874b0c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/websuke/composerSample/zipball/320232aa8994548b597397cde234aa17cb874b0c",
+                "reference": "320232aa8994548b597397cde234aa17cb874b0c",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Yt\\ComposerSample\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "gucchi",
+                    "email": "49954787+websuke@users.noreply.github.com"
+                }
+            ],
+            "description": "It's for practice.",
+            "support": {
+                "issues": "https://github.com/websuke/composerSample/issues",
+                "source": "https://github.com/websuke/composerSample/tree/v1.0.0"
+            },
+            "time": "2024-08-23T20:25:33+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}

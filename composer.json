@@ -11,5 +11,7 @@
             "email": "49954787+websuke@users.noreply.github.com"
         }
     ],
-    "require": {}
+    "require": {
+        "yt/composer-sample": "^1.0"
+    }
 }
