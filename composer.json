@@ -1,0 +1,15 @@
+{
+    "name": "yt/use-composer-sample",
+    "autoload": {
+        "psr-4": {
+            "Yt\\UseComposerSample\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gucchi",
+            "email": "49954787+websuke@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
